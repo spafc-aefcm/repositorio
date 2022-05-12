@@ -40,8 +40,8 @@ googleAnalytics = ""
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Home"
-  url = "repositorio/entrada/"
-  # home = true
+  url = "entrada/"
+  home = true
 
   # [[params.navlinks]]
   # name = "About"
