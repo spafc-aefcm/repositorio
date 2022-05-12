@@ -1,4 +1,4 @@
-baseurl = "https://spafc-aefcm.github.io/repositorio/"
+baseurl = "https://spafc-aefcm.github.io/"
 title = "SPAFC AEFCM"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "es-mx"
@@ -40,7 +40,7 @@ googleAnalytics = ""
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Home"
-  url = "entrada/"
+  url = "repositorio/entrada/"
   # home = true
 
   # [[params.navlinks]]
