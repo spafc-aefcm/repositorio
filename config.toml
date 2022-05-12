@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "https://spafc-aefcm.github.io/repositorio/"
 title = "SPAFC AEFCM"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "es-mx"
