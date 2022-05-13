@@ -1,1 +1,9 @@
 /* your styles go here */
+.no-erase {
+  cursor: default;
+  opacity: 0;
+}
+
+.no-erase a {
+  cursor: default;
+}
